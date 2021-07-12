@@ -1,1 +1,1 @@
-console.log("hello");
+window.run = () => console.log("hello");
